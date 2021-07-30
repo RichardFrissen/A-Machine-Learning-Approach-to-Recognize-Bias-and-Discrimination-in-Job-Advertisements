@@ -1,4 +1,4 @@
-# A-Machine-Learning-Approach-to-Recognize-Bias-and-Discrimination-in-Job-Advertisements-
+# A Machine Learning Approach to Recognize Bias and Discrimination in Job Advertisements
 Code and sample dataset used to achieve results presented in the paper "A Machine Learning Approach to Recognize Bias and Discrimination in Job Advertisements”.
 
 
