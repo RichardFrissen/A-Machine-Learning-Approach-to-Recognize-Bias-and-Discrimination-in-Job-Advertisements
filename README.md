@@ -1,7 +1,7 @@
 # Indentifying Possible Bias Indicators In Job Advertisements
-Code and sample dataset used to achieve results presented in the paper "Indentifying Possible Bias Indicators In Job Advertisements”.
+Code and sample dataset used to achieve results presented in the paper "Identifying Possible Bias Indicators In Job Advertisements”.
 
-This repository was created in order to support the thesis "Indentifying Possible Bias Indicators In Job Advertisements". 
+This repository was created in order to support the thesis "Identifying Possible Bias Indicators In Job Advertisements". 
 This repository contains all the code used including a small sample of the EMSCAD dataset used during the conduct of the study.
 
 ## NOTE
